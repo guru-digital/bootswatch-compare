@@ -16,3 +16,7 @@ cd bootswatch-compare
 wraith capture _configs/config.yaml
 mv shots/gallery.html shots/index.html
 ```
+
+Latest comparison
+------------------
+ * http://guru-digital.github.io/bootswatch-compare/shots

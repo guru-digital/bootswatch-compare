@@ -1,1 +1,2 @@
-source: shots
+gems:
+  - jekyll-redirect-from
